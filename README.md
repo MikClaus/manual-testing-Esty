@@ -47,12 +47,8 @@ All tests were performed manually by interacting with the website through a brow
 
 ---
 
-##  Notes
+You can view the detailed test cases here:
 
-- No registration or purchase flow was tested — only public pages and features
-- Focus was on manual exploratory and functional testing without automation
-- Testing was done mainly on desktop; mobile view was tested using DevTools device emulator
-
+ [Google Spreadsheet with test cases](https://docs.google.com/spreadsheets/d/1ZH76MnrpBV00_qmPL7EmAQlK1_4tr4yntJQNX1h6knw/edit?usp=sharing)
 ---
-
 Created and manually tested by Mykyta Chernov 
