@@ -52,6 +52,8 @@ All tests were performed manually by interacting with the website through a brow
  [Google Spreadsheet with test cases](https://docs.google.com/spreadsheets/d/1ZH76MnrpBV00_qmPL7EmAQlK1_4tr4yntJQNX1h6knw/edit?usp=sharing)
  ## - the hypeothetical checklist 
   [Google Spreadsheet with checklist](https://docs.google.com/spreadsheets/d/1XzB_B4fq_07Y3N99-IeqLLAfvzuLza3nwqYI9Hr09GQ/edit?usp=sharing)
+  ## - the hypothetical bug-reports 
+  [Google Spreadsheet with bug-reports](https://docs.google.com/spreadsheets/d/1SqJaHeoqrXOY0Wa-cpOF6u17FZa0xzfOJMGG-cYr_HM/edit?usp=sharing)
  
 ---
 Created and manually tested by Mykyta Chernov 
