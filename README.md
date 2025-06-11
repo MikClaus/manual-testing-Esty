@@ -18,11 +18,11 @@ P.S. The site is very stable, and all the bug reports are hypothetical.
 
 All tests were performed manually by interacting with the website through a browser without using any automated scripts or tools. The following areas were tested:
 
-- Search functionality by entering keywords and verifying results
-- Navigation through different product categories and filters
-- Checking details on product pages (images, descriptions, prices)
-- Adding products to the shopping cart and verifying cart contents
-- Responsive design tested by resizing browser window and using mobile device emulation in DevTools
+- Searching for a product using the search bar
+- Using the filter option in the product catalog
+- Adding a product to the cart
+- Check if the product image zooms in when clicked on the product page
+- Test hamburger menu responsiveness and usability in mobile layout
 
 ---
 
