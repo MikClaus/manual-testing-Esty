@@ -18,13 +18,11 @@ P.S. The site is very stable, and all the bug reports are hypothetical.
 
 All tests were performed manually by interacting with the website through a browser without using any automated scripts or tools. The following areas were tested:
 
-- Loading and layout of the Home page
 - Search functionality by entering keywords and verifying results
 - Navigation through different product categories and filters
 - Checking details on product pages (images, descriptions, prices)
 - Adding products to the shopping cart and verifying cart contents
 - Responsive design tested by resizing browser window and using mobile device emulation in DevTools
-- Changing language and currency settings via the site interface
 
 ---
 
@@ -32,7 +30,7 @@ All tests were performed manually by interacting with the website through a brow
 
 - Used **Google Chrome** browser to navigate and interact with the website
 - Inspected elements with **Chrome DevTools** to verify page structure and responsiveness
-- Created manual **checklists** and **test cases** in Google Sheets/Excel to track testing progress
+- Created manual **checklists** and **test cases** in Google Sheets to track testing progress
 - Documented any found issues in **bug reports** with detailed steps to reproduce and screenshots
 - No automated tools or scripts were used — all testing was **performed step-by-step by hand**
 
@@ -42,7 +40,7 @@ All tests were performed manually by interacting with the website through a brow
 
 - Google Chrome browser
 - Chrome DevTools for inspecting elements and mobile emulation
-- Google Sheets or Excel for test documentation
+- Google Sheets 
 - Markdown for organizing text files
 
 ---
