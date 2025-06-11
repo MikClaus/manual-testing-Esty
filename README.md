@@ -31,7 +31,7 @@ All tests were performed manually by interacting with the website through a brow
 - Used **Google Chrome** browser to navigate and interact with the website
 - Inspected elements with **Chrome DevTools** to verify page structure and responsiveness
 - Created manual **checklists** and **test cases** in Google Sheets to track testing progress
-- Documented any found issues in **bug reports** with detailed steps to reproduce and screenshots
+- Documented any found issues in **bug reports** with detailed steps to reproduce 
 - No automated tools or scripts were used — all testing was **performed step-by-step by hand**
 
 ---
